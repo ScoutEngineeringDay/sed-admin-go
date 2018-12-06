@@ -1,0 +1,7 @@
+{
+  "rootPath": "github.com/ScoutEngineeringDay/sed-admin-go",
+  "heroku": {
+      "install" : [ "./..." ],
+      "goVersion": "go1.10"
+       }
+}
